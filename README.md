@@ -1,4 +1,5 @@
- AWS EC2 Static Website Deployment
+</> Markdown
+## AWS EC2 Static Website Deployment
 ## Project Overview
 This project demonstrates how to deploy a static website on AWS EC2 using Apache Web Server. The website is hosted on a Linux-based virtual machine and accessed via a public IP.
 
@@ -27,7 +28,7 @@ Instance is currently stopped to avoid charges. It can be restarted anytime.
 ![Security](screenshots/security.png)
 ## Terminal Setup
 ![Terminal](screenshots/terminal.png)
-
+</> Markdown
 ## Key Learnings
 Hands-on experience with AWS EC2
 Server setup and configuration
